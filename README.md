@@ -22,7 +22,7 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Repeat experiments 5 times, and take the average execution time. <br> 
         <b>d)</b> Comment on execution times and speedup achieved using multiple threads. 
       </td>
-      <td>07 March 2025 in class</td>
+      <td>25 Feb 2026 in class</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Build your application on the cloud, run it 2, 4 and 8 CPUs, measure the performance (optional). <br>
         <b>e)</b> Compare local runs with ASW cluster runs and comment the results (optional).<br> 
       </td>
-      <td>28 March 2025 in class</td>
+      <td>25 Mar 2026 in class</td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Repeat the experiment above using Pthreads. <br> 
         <b>d)</b> Comment on efforts to accomplish the task and execution times using multiple threads. 
       </td>
-      <td>25 April 2025 in class</td>
+      <td>15 April 2026 in class</td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
@@ -59,7 +59,7 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Compare the performance of your implementation with the serial one.  <br>
         <b>d)</b> Discuss parallelization of your solution.  
       </td>
-      <td>09 May 2025 in class</td>
+      <td>6 May 2026 in class</td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
      <tr>
@@ -72,7 +72,7 @@ Please click the link below to see the projects: <br>
         <b>d)</b> Show that your solution work using Hadoop Map-Reduce approach. <br>
         <b>e)</b> Discuss about pros and cons of this approach. Check out Apache-Spark.
       </td>
-      <td>23 May 2025 in class<br>(Last week)</td>
+      <td>20 May 2026 in class<br>(Last week)</td>
       <td><a href="pro5.pdf">Project5</a></td>
     </tr>
 
