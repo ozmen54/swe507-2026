@@ -15,7 +15,7 @@ Please click the link below to see the projects: <br>
   <body>
     <tr>
       <td>1</td>
-      <td><b>Thread programming on multi-core CPU.</b></td>
+      <td><b>Multi-thread parallel programming on multi-core CPU.</b></td>
       <td> 
         <b>a)</b> Do sequential computation, take timestamps as shown in the class. Repeat experiment 5 times. Take average execution time.<br> 
         <b>b)</b> Do the same computation with 3, 9 and 12 threads.  <br> 
