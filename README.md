@@ -27,13 +27,11 @@ Please click the link below to see the projects: <br>
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Distributed parallel computing using MPI.</b></td>
+      <td><b>Process based parallel computing using shared memory.</b></td>
       <td>
-        <b>a)</b> Do the experiments 1, 3, 6, 9 and 12 processes on local computer. <br> 
+        <b>a)</b> Do the experiments 1, 3, 6 processes on your local computer. <br> 
         <b>b)</b> Check the correctnes and measure the performance.<br>
-        <b>c)</b> Create a EC2 MPI cluster on AWS, move your source code to AWS (optional). <br>
-        <b>d)</b> Build your application on the cloud, run it 2, 4 and 8 CPUs, measure the performance (optional). <br>
-        <b>e)</b> Compare local runs with ASW cluster runs and comment the results (optional).<br> 
+        <b>c)</b> Compare the performance with thread approach. <br> 
       </td>
       <td>25 Mar 2026 in class</td>
       <td><a href="pro2.pdf">Project2</a></td>
