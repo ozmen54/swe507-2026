@@ -33,7 +33,7 @@ Please click the link below to see the projects: <br>
         <b>b)</b> Check the correctnes and measure the performance.<br>
         <b>c)</b> Compare the performance with thread approach. <br> 
       </td>
-      <td>25 Mar 2026 in class</td>
+      <td>18 Mar 2026 in class</td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
