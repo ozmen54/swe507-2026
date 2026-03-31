@@ -63,7 +63,7 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>5</td>
-      <td><b>Distributed parallel computing with Apache-Hadoop. </b></td>
+      <td><b> GPU based parallel computing</b></td>
       <td>
         <b>a)</b> Implement a vector parallel solution to the problem using Cuda. <br>
         <b>b)</b> Measure the performance of your implementation.  <br>
