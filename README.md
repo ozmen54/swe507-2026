@@ -40,10 +40,10 @@ Please click the link below to see the projects: <br>
       <td>3</td>
       <td><b>Distributed parallel computing with MPI + Shared memory using Pthread</b></td>
       <td>
-        <b>a)</b> Do sequential computation, take timestamps as shown in the class. Repeat experiment 5 times. Take average execution time.<br> 
-        <b>b)</b> Do the same computation with 2, 4, 8 and 16 threads. Repeat experiment 5 times. Take average execution time. <br> 
-        <b>c)</b> Repeat the experiment above using Pthreads. <br> 
-        <b>d)</b> Comment on efforts to accomplish the task and execution times using multiple threads. 
+        <b>a)</b> Do sequential computation, take timestamps as shown in the class. <br> 
+        <b>b)</b> Create an MPI cluster with three nodes on cloud (AWS or Azure). <br> 
+        <b>c)</b> Do the computation with 3 MPI workers and 2 Pthreads on each host (see project description). <br> 
+        <b>d)</b> Discuss the results. 
       </td>
       <td>15 April 2026 in class</td>
       <td><a href="pro3.pdf">Project3</a></td>
