@@ -38,7 +38,7 @@ Please click the link below to see the projects: <br>
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Parallel application development using OpenMP</b></td>
+      <td><b>Distributed parallel computing with MPI + Shared memory using Pthread</b></td>
       <td>
         <b>a)</b> Do sequential computation, take timestamps as shown in the class. Repeat experiment 5 times. Take average execution time.<br> 
         <b>b)</b> Do the same computation with 2, 4, 8 and 16 threads. Repeat experiment 5 times. Take average execution time. <br> 
