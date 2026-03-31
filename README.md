@@ -51,28 +51,27 @@ Please click the link below to see the projects: <br>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Parallel image processing application on GPU</b></td>
+      <td><b>Compiler assisted parallel computing with OpenMP</b></td>
       <td>
-        <b>a)</b> Implement a vector parallel solution to the problem using Cuda. <br>
+        <b>a)</b> To be written <br>
         <b>b)</b> Measure the performance of your implementation. <br>
         <b>c)</b> Compare the performance of your implementation with the serial one.  <br>
         <b>d)</b> Discuss parallelization of your solution.  
       </td>
       <td>6 May 2026 in class</td>
-      <td><a href="pro4.pdf">Project4</a></td>
+      <td><a href="">Project4</a></td>
     </tr>
      <tr>
       <td>5</td>
       <td><b>Distributed parallel computing with Apache-Hadoop. </b></td>
       <td>
-        <b>a)</b> Install Apache-Hadoop and HDFS as single node cluster on your computer. <br>
-        <b>b)</b> Implement a Java solution to the same problem of the previous image processing problem. <br>
-        <b>c)</b> Obtain the Jar file and move it under HDFS. <br>
-        <b>d)</b> Show that your solution work using Hadoop Map-Reduce approach. <br>
-        <b>e)</b> Discuss about pros and cons of this approach. Check out Apache-Spark.
+        <b>a)</b> Implement a vector parallel solution to the problem using Cuda. <br>
+        <b>b)</b> Measure the performance of your implementation.  <br>
+        <b>c)</b> Compare the performance of your implementation with the earlier results. <br>
+        <b>d)</b> Discuss about pros and cons of this approach.     
       </td>
       <td>20 May 2026 in class<br>(Last week)</td>
-      <td><a href="pro5.pdf">Project5</a></td>
+      <td><a href="">Project5</a></td>
     </tr>
 
   </body>
