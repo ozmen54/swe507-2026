@@ -53,10 +53,11 @@ Please click the link below to see the projects: <br>
       <td>4</td>
       <td><b>Compiler assisted parallel computing with OpenMP</b></td>
       <td>
-        <b>a)</b> To be written <br>
-        <b>b)</b> Measure the performance of your implementation. <br>
-        <b>c)</b> Compare the performance of your implementation with the serial one.  <br>
-        <b>d)</b> Discuss parallelization of your solution.  
+        <b>a)</b> Implement a basic CNN architecture for image filtering. <br>
+        <b>b)</b> Parallelize the computationally intensive parts (e.g., convolution) using OpenMP directives. <br>
+        <b>c)</b> Measure the performance of your implementation. <br>
+        <b>d)</b> Compare the performance of your implementation with the serial one.  <br>
+        <b>e)</b> Discuss parallelization of your solution.  
       </td>
       <td>29 Apr 2026 in class</td>
       <td><a href="">Project4</a></td>
