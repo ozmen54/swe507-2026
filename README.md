@@ -58,7 +58,7 @@ Please click the link below to see the projects: <br>
         <b>c)</b> Compare the performance of your implementation with the serial one.  <br>
         <b>d)</b> Discuss parallelization of your solution.  
       </td>
-      <td>6 May 2026 in class</td>
+      <td>29 Apr 2026 in class</td>
       <td><a href="">Project4</a></td>
     </tr>
      <tr>
